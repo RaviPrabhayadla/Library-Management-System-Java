@@ -36,3 +36,14 @@ This project is a console-based Library Management System developed using Java. 
 * Build GUI interface using Java Swing or JavaFX
 # Requirements
 - Java (JDK 8 or above)
+# Sample Output
+1. Add Book
+2. View Books
+3. Issue Book
+4. Return Book
+5. Exit
+
+Enter choice: 1
+Enter Book ID: 101
+Enter Title: Java Basics
+Book added successfully
