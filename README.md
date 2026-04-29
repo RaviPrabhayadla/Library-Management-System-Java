@@ -34,3 +34,5 @@ This project is a console-based Library Management System developed using Java. 
 * Add user authentication
 * Store data using database instead of memory
 * Build GUI interface using Java Swing or JavaFX
+# Requirements
+- Java (JDK 8 or above)
